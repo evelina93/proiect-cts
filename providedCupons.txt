@@ -1,0 +1,7 @@
+Bon|RO2132|2|3|32
+Bon|RO3213|4|19|355
+Bilet|123|A vs B|x
+Bon|Ro123|2|12|56
+Bon|RO342345|2|12|56
+Bilet|124|C vs D|1
+Bilet|125|D vs E|1

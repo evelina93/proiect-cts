@@ -1,0 +1,4 @@
+Extragere|2|12|56
+OutcomeEvent|123|x
+OutcomeEvent|124|1
+OutcomeEvent|125|2
